@@ -1,6 +1,6 @@
 name: Fyooz Studio
 favicon: null
-layout_spectrum: 0.3277076706290245
+layout_spectrum: 0.22291
 typography_spectrum: 0.19670483306981623
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.40965977194719017
-  lightness: 0.6388232859317213
-  saturation: 0.07480964018031955
-  rhythmicContrast: 0.9726482599508017
+    - '#404041'
+    - '#d7df21'
+    - '#000000'
+    - '#9ba02e'
+    - '#00ff00'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
