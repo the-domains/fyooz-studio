@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fyooz Studio]]></title>
         <description><![CDATA[Fyooz Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fyooz-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 10:33:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 10:35:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fyooz-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cd28982-fe5e-40b0-b5b5-8cdff3b830bc.png">]]></description>
-            <link>undefined070afb39-2bd2-4e35-97d0-f63019da9039/index.html</link>
+            <link>https://thegrid.ai/fyooz-studio/070afb39-2bd2-4e35-97d0-f63019da9039/index.html</link>
             <guid isPermaLink="false">070afb39-2bd2-4e35-97d0-f63019da9039</guid>
-            <pubDate>Thu, 07 Jan 2016 10:33:19 GMT</pubDate>
+            <pubDate>Thu, 07 Jan 2016 10:35:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
