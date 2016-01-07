@@ -2,6 +2,7 @@ name: Fyooz Studio
 favicon: null
 layout_spectrum: 0.22291
 typography_spectrum: 0.19670483306981623
+title: 'welcome!'
 cta:
   domain: null
   bucket: null
